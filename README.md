@@ -18,7 +18,7 @@ So to decrypt it you put this script:
 ```
 from mom_encrypter import MomwhyareyouhereEncrypter
 
-MomwhyareyouhereEncrypter.unencrypt("example.mom")
+MomwhyareyouhereEncrypter.decrypt("example.mom")
 
 ```
 
